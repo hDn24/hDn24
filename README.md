@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning about Deep Learning and Software Engineer.
+
 <!--
 **hDn24/hDn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
