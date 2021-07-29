@@ -7,7 +7,7 @@ Hello, I'm hDn24!
 - 💻  Machine Learning, Deep Learning enthusiast.
 #### Programming Languages, Libraries & Tools:
 - ###### Tensorflow & Keras: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> + <code><img height="19" src="https://img.stackshare.io/service/5601/keras.png"></code>
-- ###### Python, NumPy, OpenCV & Vim: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> + <code><img height="20" src="https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png"></code> + <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code> + <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+- ###### Python, NumPy, OpenCV: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> + <code><img height="20" src="https://static.javatpoint.com/tutorial/numpy/images/numpy-tutorial.png"></code> + <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png"></code>
 - ###### Git: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!--
