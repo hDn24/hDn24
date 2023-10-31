@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 #### Github stats
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=hDn24&count_private=true&theme=dracula&include_all_commits=true&show_icons=true" alt="hDn24's Github stats" />
+<img width="68%" src="https://github-readme-stats.vercel.app/api?username=hDn24&count_private=true&theme=dracula&include_all_commits=true&show_icons=true" alt="hDn24's Github stats" />
 
 #### Github activity graph
-<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=hDn24&theme=dracula" alt="hDn24's github activity graph" />
+<img width="68%" src="https://github-readme-activity-graph.vercel.app/graph?username=hDn24&theme=dracula" alt="hDn24's github activity graph" />
