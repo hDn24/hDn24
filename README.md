@@ -1,8 +1,8 @@
 #### About me
 
 - 👋 Hi, I’m @hDn24
-- 🌱 I’m currently learning about Python + Tensorflow.
-- 💻  Machine Learning, Deep Learning enthusiast.
+- 🌱 I’m currently learning about `Python` + `Tensorflow`
+- 💻  `Machine Learning`, `Deep Learning` enthusiast
 - 📫 How to reach me? Please send an email to hodangnhan24@gmail.com
 #### Programming Languages, Libraries & Tools:
 - ###### Tensorflow & Keras: <code><img height="19" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code> + <code><img height="19" src="https://img.stackshare.io/service/5601/keras.png"></code>
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=hDn24&count_private=true&theme=dracula&include_all_commits=true&show_icons=true" alt="hDn24's Github stats" />
 
-[![hDn24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hDn24&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#### Github stats
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=hDn24&count_private=true&theme=dracula&include_all_commits=true&show_icons=true" alt="hDn24's Github stats" />
 
-
-
+#### Github activity graph
+<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=hDn24&theme=dracula" alt="hDn24's github activity graph" />
