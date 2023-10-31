@@ -25,4 +25,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=hDn24&count_private=true&theme=dracula&include_all_commits=true&show_icons=true" alt="hDn24's Github stats" />
 
+[![hDn24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hDn24&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
